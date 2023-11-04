@@ -1,4 +1,4 @@
 import os
 
-GOOD_VAR = "WrongVarName"
-print(GOOD_VAR)
+WrongVar = "WrongVarName"
+print(WrongVar)
